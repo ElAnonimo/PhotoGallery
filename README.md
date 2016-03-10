@@ -3,6 +3,7 @@
 
 ### Технологии
 * Bootstrap
+* Bootstrap Tab, динамические вкладки
 * Bootstrap Carousel
 * Плагин фотогалареи Lightbox
 * CSS
